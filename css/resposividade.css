@@ -1,0 +1,16 @@
+@media (max-width: 480px) {
+    .box-quebra
+    {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-centro{
+        display: flex;
+        justify-content: center;
+
+        width: 100%;
+
+        margin: 0;
+    }
+  }
