@@ -13,4 +13,46 @@
 
         margin: 0;
     }
+
+    
+
+    #link-grande
+    {
+        font-size: 15px;
+    }
+  }
+
+  p
+  {
+    margin-bottom: 20px;
+    text-indent: 20px;
+  }
+
+  a
+  {
+    color: #b48400;
+  }
+
+  a:hover
+  {
+    color: #ffbd06;
+  }
+
+  @media (max-width: 376px) {
+    h1
+    {
+        position: relative;
+        top: 50px;
+    }
+
+    .entry__meta
+    {
+        position: relative;
+        top: 40px;
+    }
+  }
+
+  .link-especial
+  {
+    color: var(--color-1);
   }
