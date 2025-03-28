@@ -56,3 +56,13 @@
   {
     color: var(--color-1);
   }
+
+  #img-especial
+  {
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+
+    margin: 0;
+  }
